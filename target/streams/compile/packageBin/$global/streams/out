@@ -1,0 +1,13 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /Users/ivaniglesiasalcon/avatar_social/target/scala-2.10/avatarsocial_2.10-1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/avatar[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/ivaniglesiasalcon/avatar_social/target/scala-2.10/classes/com/avatar[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/ivaniglesiasalcon/avatar_social/target/scala-2.10/classes/com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/avatar/json[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/ivaniglesiasalcon/avatar_social/target/scala-2.10/classes/com/avatar/json[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/avatar/json/extractJson$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/ivaniglesiasalcon/avatar_social/target/scala-2.10/classes/com/avatar/json/extractJson$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/avatar/json/extractJson.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/ivaniglesiasalcon/avatar_social/target/scala-2.10/classes/com/avatar/json/extractJson.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
