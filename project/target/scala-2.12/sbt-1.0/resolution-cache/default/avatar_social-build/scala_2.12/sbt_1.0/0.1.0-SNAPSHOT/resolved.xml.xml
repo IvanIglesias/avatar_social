@@ -4,7 +4,7 @@
 		module="avatar_social-build"
 		revision="0.1.0-SNAPSHOT"
 		status="integration"
-		publication="20190103115003"
+		publication="20190303001332"
 		e:sbtVersion="1.0" e:scalaVersion="2.12"
 	>
 		<description>

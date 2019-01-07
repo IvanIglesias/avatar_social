@@ -1,0 +1,35 @@
+*.class
+
+**/.idea/*
+*.iml
+*.versionsBackup
+
+.project
+.classpath
+~*
+**/.settings/*
+**/target/*
+**/bin/*
+**/build/* 
+
+**/metastore_db/*
+*.log
+**/deployment/temporaryDeploymentFiles/*
+
+release.properties
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+CargaTabla.iml
+# Package Files #
+#*.jar
+*.war
+*.ear
+.settings
+.classpath
+.project
+target/*
+.idea
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+/target/
